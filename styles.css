@@ -1,0 +1,7 @@
+body {background-color: #89cff0; text-align: center; font-family: monospace; font-size: 30px; background-image: radial-gradient(circle, #990066, #660099,#3300cc, #0000ff); background-repeat: repeat}
+.img-container {background-color: #800000; max-height: 500px; border: 2px solid yellow; text-align: center;}
+img {width: 150px;}
+p{text-align: center;}
+h1 {text-align: center; font-size: 70px;}
+img.one {height: 90%; width: 90%;}
+h2 {text-align: left}
